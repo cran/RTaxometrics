@@ -1,7 +1,5 @@
-#' @export
-
 print.profile <-
-function(x) {
+function(x, ...) {
   # 
   # Prints an object of class "profile".
   # 

@@ -27,9 +27,9 @@ Panel of MAXEIG curves:
 \item{curve.y }{Y values of curve}
 }
 \references{
-Waller, N.G., & Meehl, P.E. (1998). Multivariate normal procedures:
-Distinguishing types from continua. Thousand Oaks, CA, US: Sage
-Publications, Inc.
+Waller, N.G., & Meehl, P.E. (1998). Multivariate taxometric procedures:
+Distinguishing types from continua. Thousand Oaks, CA, US: 
+Sage Publications, Inc.
 }
 \author{
 John Ruscio <ruscio@tcnj.edu> and Shirley Wang <shirleywang@g.harvard.edu>

@@ -1,7 +1,5 @@
-#' @export
-
 print.taxometrics <-
-function(x) {
+function(x, ...) {
   # 
   # Prints an object of class "taxometrics".
   # 
